@@ -1,1 +1,1 @@
-export * from "./try_catch.ts"
+export * from "./try_catch.ts";

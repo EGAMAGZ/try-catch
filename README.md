@@ -1,4 +1,4 @@
-# Try-Catch
+# ✨ Try-Catch
 
 A simple try-catch utility, the same one shown by Theogg in his
 [video](https://www.youtube.com/watch?v=Y6jT-IkV0VM) in a
@@ -20,3 +20,7 @@ if (result.error) {
   // Use successful result
 }
 ```
+
+# License
+
+The Unlicense
